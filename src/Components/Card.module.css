@@ -1,0 +1,12 @@
+.card {
+  padding: 1rem;
+  border: 3px transparent #2a2a2a;
+  border-radius: 2rem;
+  margin: 2rem 3rem;
+  background-color: rgb(178, 208, 228);
+}
+.cardimg {
+  border: 1px solid #7300ff75;
+  border-radius: 25rem;
+  margin: 2rem 3rem;
+}

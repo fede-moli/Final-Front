@@ -1,0 +1,17 @@
+.footer p {
+  margin: 0;
+  padding: 1rem 5rem;
+  margin: 1rem;
+}
+.footer img {
+  width: 2rem;
+  height: 2rem;
+}
+
+.footer {
+ text-align: center;
+ display: flex;
+ gap: 2rem;
+ justify-content: center;
+
+}
